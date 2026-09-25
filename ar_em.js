@@ -3,7 +3,7 @@ let age = 19;
 let course = "BSIT";
 
 let numbers = [1, 2, 3, 4, 5];
-let fruits = ["apple", "banana", "mango"];
+let fruits = ["watermelon", "dragon fruit", "strawberry];
 let grades = [85, 90, 75];
 
 
@@ -25,7 +25,6 @@ if (grades[0] >= 80) {
     console.log("First grade is failing.");
 }
 
-// Loops (3)
 for (let i = 0; i < numbers.length; i++) {
     console.log("Number: " + numbers[i]);
 }
