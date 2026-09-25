@@ -1,4 +1,4 @@
-let name = "Rhiza Mae Dacutanan"; 
+let name = "Rhiza Mae J. Dacutanan"; 
 let age = 19;
 let course = "BSIT";
 
